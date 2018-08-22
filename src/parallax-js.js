@@ -1,4 +1,4 @@
-const Parallax = (data) => {
+const Parallax = () => {
 	const pA = Array.from(document.querySelectorAll('[data-parallax]'));
 
 	pA.map(el => {
