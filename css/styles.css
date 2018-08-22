@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.parallax-container{
+    position: relative;
+    min-height: 100vh;
+    overflow: hidden;
+    margin-top: 1000px;
+    margin-bottom: 1000px;
+}
+
+.parallax{
+    position: absolute;
+}
+
+
