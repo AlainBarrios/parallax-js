@@ -2,13 +2,16 @@
 
 Un sencillo pero hermoso parallax para que lo implentes en tu sitio web para darle ese toque moderno.
 
+[Demo](https://alainbarrios.github.io/parallax-js/)
+
 ### Implentación
 
-Agrega esta linea de código en tu archivo html donde debes incluir `data-parallax` y `data-translate="true"`
+Agrega esta linea de código en tu archivo html donde debes incluir `data-parallax` y `data-translate="true"` e incluyendo el script del archivo javascript
 ```html
 <div class="parallax-container">
     <img src="./images/1.jpg" alt="Imagen de ciudad" class="parallax" data-parallax data-translate="true">
 </div>
+<script src="./src/parallax-js.js"></script>
 ````
 
 Se recomienda que coloques estos estilos para el contenedor y la imagen.
