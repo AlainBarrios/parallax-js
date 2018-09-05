@@ -4,6 +4,8 @@ Un sencillo pero hermoso parallax para que lo implentes en tu sitio web para dar
 
 [Demo](https://alainbarrios.github.io/parallax-js/)
 
+![Alt text](https://i.gyazo.com/998dee4a6ddb3fd94ce47e911aff375d.gif?raw=true "Title")
+
 ### Implentación
 
 Agrega esta linea de código en tu archivo html donde debes incluir `data-parallax` y `data-translate="true"` e incluyendo el script del archivo javascript
